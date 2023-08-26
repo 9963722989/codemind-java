@@ -9,7 +9,6 @@ public class h{
             String s1=s.next();
             int z=Integer.parseInt(s1,2);
             System.out.println(Integer.toString(z,8));
-            
         }
     }
 }
